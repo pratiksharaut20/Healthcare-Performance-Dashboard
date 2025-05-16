@@ -70,3 +70,14 @@ To analyze and visualize average patient wait times across different case types,
 This Power BI project enabled a data-driven analysis of the healthcare system’s patient wait list. The insights empower healthcare administrators to understand trends, identify bottlenecks in specialties, and focus on reducing wait times for vulnerable age groups. With interactive visualizations, decision-makers can better allocate resources and optimize care delivery strategies for improved patient outcomes.
 
 ---
+
+### *Dashboard:*
+
+#### Summary Dashboard
+![]()
+
+#### Detailed View Dashboard
+![Dashboard2]()
+
+#### Specialty Group Breakdown Tooltip
+![Dashboard3]()
