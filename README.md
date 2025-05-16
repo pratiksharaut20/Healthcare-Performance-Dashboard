@@ -74,10 +74,12 @@ This Power BI project enabled a data-driven analysis of the healthcare system’
 ### *Dashboard:*
 
 #### Summary Dashboard
-![]()
+![Summary](images/Dashboard1.png)
 
 #### Detailed View Dashboard
-![Dashboard2]()
+![Dashboard2](images/Dashboard2.png)
 
 #### Specialty Group Breakdown Tooltip
-![Dashboard3]()
+![Dashboard3](images/Dashboard3.png)
+
+---
