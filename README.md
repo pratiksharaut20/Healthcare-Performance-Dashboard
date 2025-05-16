@@ -32,7 +32,7 @@ To analyze and visualize average patient wait times across different case types,
 
 1. *Data Collection:*
 
-   * Used three datasets: `Inpatient`, `Outpatient`, and `Mapping_Specialty`.
+   * Used three datasets: [Inpatient](Datasets/Inpatient), `Outpatient`, and `Mapping_Specialty`.
 
 2. *Data Cleaning & Transformation:*
 
